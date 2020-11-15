@@ -1,4 +1,4 @@
-"# PreddictiveModelArimaGUAP" 
+#PreddictiveModelArimaGUAP 
 Или же математическая модель прогнозирования
 
 ##Краткое описание продукта 
